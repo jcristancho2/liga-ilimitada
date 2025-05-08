@@ -1,0 +1,82 @@
+[
+    {
+        "nombre": "Lex Luthor",
+        "nombre_clave": "Lex Luthor",
+        "casa": "DC",
+        "anio_aparicion": 1940,
+        "descripcion_resumen": "Genio multimillonario obsesionado con destruir a Superman.",
+        "descripcion_full": "Lex Luthor es uno de los archienemigos de Superman. Es un brillante científico y empresario multimillonario que ve a Superman como una amenaza para la humanidad. Ha utilizado su intelecto y vastos recursos para combatir al Hombre de Acero mediante tramas complejas y tecnología avanzada."
+    },
+    {
+        "nombre": "Joker",
+        "nombre_clave": "The Joker",
+        "casa": "DC",
+        "anio_aparicion": 1940,
+        "descripcion_resumen": "Psicópata criminal con un retorcido sentido del humor, enemigo de Batman.",
+        "descripcion_full": "El Joker es un criminal maníaco con un sentido del humor sádico, y el némesis más notorio de Batman. Su origen ha sido contado de múltiples formas, pero siempre se le presenta como una mente impredecible, peligrosa y extremadamente inteligente."
+    },
+    {
+        "nombre": "Darkseid",
+        "nombre_clave": "Darkseid",
+        "casa": "DC",
+        "anio_aparicion": 1970,
+        "descripcion_resumen": "Señor de Apokolips que busca la ecuación antivida.",
+        "descripcion_full": "Darkseid es un tirano intergaláctico que gobierna el planeta Apokolips. Es uno de los enemigos más poderosos del universo DC, y su objetivo es someter toda la existencia mediante la Ecuación Anti-Vida."
+    },
+    {
+        "nombre": "Harley Quinn",
+        "nombre_clave": "Harley Quinn",
+        "casa": "DC",
+        "anio_aparicion": 1992,
+        "descripcion_resumen": "Ex-psiquiatra convertida en villana caótica aliada del Joker.",
+        "descripcion_full": "Harley Quinn, antigua doctora Harleen Quinzel, fue seducida por el Joker en Arkham Asylum y se convirtió en su cómplice. Es conocida por su comportamiento impredecible y estilo extravagante."
+    },
+    {
+        "nombre": "Bane",
+        "nombre_clave": "Bane",
+        "casa": "DC",
+        "anio_aparicion": 1993,
+        "descripcion_resumen": "Enemigo de Batman con fuerza sobrehumana gracias al suero Venom.",
+        "descripcion_full": "Bane es un villano que combina inteligencia estratégica con una fuerza bruta aumentada por el suero Venom. Es famoso por haber quebrado la espalda de Batman en la saga 'Knightfall'."
+    },
+    {
+        "nombre": "Deathstroke",
+        "nombre_clave": "Deathstroke",
+        "casa": "DC",
+        "anio_aparicion": 1980,
+        "descripcion_resumen": "Asesino a sueldo con habilidades mejoradas y mente táctica.",
+        "descripcion_full": "Deathstroke, alias Slade Wilson, es un mercenario mejorado física y mentalmente. Ha enfrentado a numerosos héroes, especialmente los Teen Titans, con su gran destreza en combate."
+    },
+    {
+        "nombre": "Sinestro",
+        "nombre_clave": "Sinestro",
+        "casa": "DC",
+        "anio_aparicion": 1961,
+        "descripcion_resumen": "Ex Green Lantern convertido en líder del Sinestro Corps.",
+        "descripcion_full": "Sinestro fue uno de los mejores Linternas Verdes, pero cayó en el autoritarismo y fue expulsado. Fundó el Sinestro Corps, que utiliza el miedo como fuente de poder."
+    },
+    {
+        "nombre": "Black Adam",
+        "nombre_clave": "Black Adam",
+        "casa": "DC",
+        "anio_aparicion": 1945,
+        "descripcion_resumen": "Antiguo campeón corrompido con los poderes del Mago Shazam.",
+        "descripcion_full": "Black Adam es el némesis de Shazam, un ser con los mismos poderes otorgados por los dioses, pero con una visión tiránica del orden y la justicia."
+    },
+    {
+        "nombre": "Cheetah",
+        "nombre_clave": "Cheetah",
+        "casa": "DC",
+        "anio_aparicion": 1943,
+        "descripcion_resumen": "Enemiga de Wonder Woman con velocidad y fuerza felina.",
+        "descripcion_full": "Cheetah es una arqueóloga maldita con poderes sobrenaturales felinos. Es una de las mayores adversarias de Wonder Woman, con una mezcla de velocidad, agilidad y ferocidad."
+    },
+    {
+        "nombre": "Riddler",
+        "nombre_clave": "The Riddler",
+        "casa": "DC",
+        "anio_aparicion": 1948,
+        "descripcion_resumen": "Villano obsesionado con acertijos y juegos mentales.",
+        "descripcion_full": "Edward Nygma, alias Riddler, es un criminal que deja pistas y acertijos en sus crímenes, obsesionado con demostrar su superioridad intelectual sobre Batman."
+    }
+]
