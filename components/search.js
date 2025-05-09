@@ -282,6 +282,7 @@ document.addEventListener('search-villains', (event) => {
     v.nombre.toLowerCase().includes(termino) ||
     v.nombre_clave.toLowerCase().includes(termino) ||
     v.casa.toLowerCase().includes(termino)
+    
   );
 
   contenedor.innerHTML = '';
